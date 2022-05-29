@@ -6,4 +6,4 @@ in this project i learned working with components and specialy with usestate/use
 
 29-05-2022
 
-working on prev/mext song button 
+working on prev/next song button 
